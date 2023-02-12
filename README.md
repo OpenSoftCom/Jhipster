@@ -1,0 +1,2 @@
+# Jhipster
+front application
